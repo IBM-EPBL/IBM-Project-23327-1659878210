@@ -1,0 +1,48 @@
+html {
+    font-size: 1rem;
+  }
+  
+  @include media-breakpoint-up(sm) {
+    html {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @include media-breakpoint-up(md) {
+    html {
+      font-size: 1.4rem;
+    }
+  }
+  
+  @include media-breakpoint-up(lg) {
+    html {
+      font-size: 1.6rem;
+    }
+  }
+  
+  section {
+      padding: 20px 0;
+  }
+  
+  section .section-title {
+      text-align: center;
+      color: #f50303;
+      margin-bottom: 50px;
+      text-transform: uppercase;
+  }
+  .form-group{
+    width: 400px; 
+    margin-left: 25px;
+  }
+  .nav-link{
+    color:black !important;
+  }
+  
+  @media (max-width:767px){
+      #footer h5 {
+      padding-left: 0;
+      border-left: transparent;
+      padding-bottom: 0px;
+      margin-bottom: 10px;
+  }
+  }
