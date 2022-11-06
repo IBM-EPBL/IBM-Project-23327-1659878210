@@ -23,12 +23,13 @@ To develop an end-to-end web application capable of displaying the current job o
 ## Project Progress :
  # Setting up Application Environment
 
-[x] Create Flask Project
-[x] Create IBM Cloud Account
-[x] Docker CLI Installation
-[x] IBM Cloud CLI Installation
-[x] Create Sendgrid Account
- [x]Ideation Phase
+-[x] Create Flask Project
+-[x] Create IBM Cloud Account
+-[x] Docker CLI Installation
+-[x] IBM Cloud CLI Installation
+-[x] Create Sendgrid Account
+
+ ## Ideation Phase
 
  # Literature Survey
  [x]Empathy Map Canva
