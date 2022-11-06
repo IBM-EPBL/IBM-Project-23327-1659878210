@@ -24,49 +24,49 @@ To develop an end-to-end web application capable of displaying the current job o
  # Setting up Application Environment
 
 - [x] Create Flask Project
--[x] Create IBM Cloud Account
--[x] Docker CLI Installation
--[x] IBM Cloud CLI Installation
--[x] Create Sendgrid Account
+- [x] Create IBM Cloud Account
+- [x] Docker CLI Installation
+- [x] IBM Cloud CLI Installation
+- [x] Create Sendgrid Account
 
  ## Ideation Phase
 
  # Literature Survey
- [x]Empathy Map Canva
- [x]Brainstorming & Ideation
- [x]Project Design Phase 1
+ - [x]Empathy Map Canva
+ - [x]Brainstorming & Ideation
+ - [x]Project Design Phase 1
 
 # Proposed Solution
- [x]Problem Solution Fit
- [x]Solution Architecture
- [x]Project Design Phase 2
+- [x]Problem Solution Fit
+- [x]Solution Architecture
+- [x]Project Design Phase 2
 
  # Customer Journey
- [x]Functional Requirement
- [x]Technology Architecture
- [x]Data Flow Diagram
+ - [x]Functional Requirement
+ - [x]Technology Architecture
+ - [x]Data Flow Diagram
  # Implementing Web Application
 
- [x]Create UI to interact with Application
- [x]Create IBM DB2 and connect with Python
+ - [x]Create UI to interact with Application
+ - [x]Create IBM DB2 and connect with Python
  # Integrating Sendgrid Service
 
- [x]Sendgrid integration with Python
+-  [x]Sendgrid integration with Python
 # Developing a ChatBot
 
- [x]Build ChatBot and Integrate with App
+-  [x]Build ChatBot and Integrate with App
  # Project Planning Phase
 
- [x]Prepare Milestone and Activity List
- [x]Sprint Delivery Plan
+-  [x]Prepare Milestone and Activity List
+ - [x]Sprint Delivery Plan
  # Project Development Phase
 
- [x]Delivery of Sprint-1
- [ ]Delivery of Sprint-2
- []Delivery of Sprint-3
- []Delivery of Sprint-4
+ - [x]Delivery of Sprint-1
+ - [ ]Delivery of Sprint-2
+ - []Delivery of Sprint-3
+ - []Delivery of Sprint-4
  # Deployment of App in IBM Cloud
 
- [ ] Containerize the App
- [ ] Upload Image to IBM Container Registry
- [ ] Deploy in Kubernetes Cluster
+ - [ ] Containerize the App
+ - [ ] Upload Image to IBM Container Registry
+ - [ ] Deploy in Kubernetes Cluster
