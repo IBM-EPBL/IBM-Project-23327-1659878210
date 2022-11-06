@@ -20,7 +20,7 @@ To develop an end-to-end web application capable of displaying the current job o
 
 
 
-## Project Progress :
+# Project Progress :
  # Setting up Application Environment
 
 - [x] Create Flask Project
@@ -29,19 +29,19 @@ To develop an end-to-end web application capable of displaying the current job o
 - [x] IBM Cloud CLI Installation
 - [x] Create Sendgrid Account
 
- ## Ideation Phase
+ # Ideation Phase
 
- # Literature Survey
+ ## Literature Survey
  - [x] Empathy Map Canva
  - [x] Brainstorming & Ideation
  - [x] Project Design Phase 1
 
-# Proposed Solution
+## Proposed Solution
 - [x] Problem Solution Fit
 - [x] Solution Architecture
 - [x] Project Design Phase 2
 
- # Customer Journey
+ ## Customer Journey
  - [x] Functional Requirement
  - [x] Technology Architecture
  - [x] Data Flow Diagram
