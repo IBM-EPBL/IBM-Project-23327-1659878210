@@ -2,7 +2,7 @@
 Skill / Job Recommender Application
   
   
-  /TEAM MEMBERS:
+  #TEAM MEMBERS:
             -Vaishnavi.C
              -Monisha.A
              -Jayashree.M
