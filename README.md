@@ -2,7 +2,7 @@
 Skill / Job Recommender Application
   
   
-  TEAM MEMBERS:(docs/CONTRIBUTING.md)
+  /TEAM MEMBERS:
             -Vaishnavi.C
              -Monisha.A
              -Jayashree.M
