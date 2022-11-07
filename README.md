@@ -62,11 +62,11 @@ To develop an end-to-end web application capable of displaying the current job o
  # Project Development Phase
 
  - [x] Delivery of Sprint-1
- - [ ] Delivery of Sprint-2
- - [ ] Delivery of Sprint-3
+ - [x] Delivery of Sprint-2
+ - [x] Delivery of Sprint-3
  - [ ] Delivery of Sprint-4
  # Deployment of App in IBM Cloud
 
  - [ ] Containerize the App
  - [ ] Upload Image to IBM Container Registry
- - [ ] Deploy in Kubernetes Cluster
+ - [x] Deploy in Kubernetes Cluster
