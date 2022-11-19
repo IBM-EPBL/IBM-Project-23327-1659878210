@@ -3,8 +3,7 @@
 # Team ID : PNT2022TMID23025    
 
 
-# website link
-# https://vaishnavi-2103.github.io/
+# website link- https://vaishnavi-2103.github.io/
 
 # TEAM MEMBERS:
              -Vaishnavi.C
@@ -67,9 +66,9 @@ To develop an end-to-end web application capable of displaying the current job o
  - [x] Delivery of Sprint-1
  - [x] Delivery of Sprint-2
  - [x] Delivery of Sprint-3
- - [ ] Delivery of Sprint-4
+ - [x] Delivery of Sprint-4
  # Deployment of App in IBM Cloud
 
- - [ ] Containerize the App
- - [ ] Upload Image to IBM Container Registry
+ - [x] Containerize the App
+ - [x] Upload Image to IBM Container Registry
  - [x] Deploy in Kubernetes Cluster
